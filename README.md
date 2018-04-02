@@ -2,6 +2,8 @@
 
 Uma app simples em node usando [Express 4](http://expressjs.com/).
 
+## Marcos Vaz
+
 ## Build da Imagem:
 
 Crie um Dockerfile com as especificacoes abaixo_
